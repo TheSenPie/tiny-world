@@ -1,0 +1,192 @@
+[
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/euler.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/euler.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/euler.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/affine.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/affine.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/affine.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/io.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/io.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/io.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/quat.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/quat.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/quat.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/cam.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/cam.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/cam.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/vec2.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/vec2.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/vec2.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/ivec2.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ivec2.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ivec2.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/vec3.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/vec3.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/vec3.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/ivec3.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ivec3.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ivec3.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/vec4.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/vec4.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/vec4.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/ivec4.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ivec4.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ivec4.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/mat2.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/mat2.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/mat2.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/mat3.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/mat3.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/mat3.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/mat4.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/mat4.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/mat4.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/plane.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/plane.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/plane.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/frustum.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/frustum.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/frustum.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/box.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/box.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/box.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/project.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/project.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/project.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/sphere.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/sphere.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/sphere.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/ease.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ease.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ease.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/curve.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/curve.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/curve.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/bezier.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/bezier.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/bezier.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/ray.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ray.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/ray.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/affine2d.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/affine2d.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/affine2d.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/ortho_lh_no.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/ortho_lh_no.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/ortho_lh_no.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/ortho_lh_zo.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/ortho_lh_zo.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/ortho_lh_zo.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/ortho_rh_no.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/ortho_rh_no.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/ortho_rh_no.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/ortho_rh_zo.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/ortho_rh_zo.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/ortho_rh_zo.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/persp_lh_no.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/persp_lh_no.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/persp_lh_no.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/persp_lh_zo.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/persp_lh_zo.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/persp_lh_zo.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/persp_rh_no.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/persp_rh_no.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/persp_rh_no.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/persp_rh_zo.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/persp_rh_zo.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/persp_rh_zo.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/view_lh_no.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/view_lh_no.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/view_lh_no.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/view_lh_zo.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/view_lh_zo.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/view_lh_zo.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/view_rh_no.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/view_rh_no.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/view_rh_no.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/view_rh_zo.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/view_rh_zo.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/view_rh_zo.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/project_no.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/project_no.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/project_no.c"
+},
+{
+  "directory": "/Users/senpie/Documents/projects/personal/cylinder/build",
+  "command": "/usr/bin/clang -DCGLM_EXPORTS -Dcglm_EXPORTS -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/include -I/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -fPIC -Wall -Werror -O3 -std=gnu11 -o CMakeFiles/cglm.dir/src/clipspace/project_zo.c.o -c /Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/project_zo.c",
+  "file": "/Users/senpie/Documents/projects/personal/cylinder/lib/cglm/src/clipspace/project_zo.c"
+}
+]
